@@ -11,3 +11,6 @@ Once you have a good foundation in programming, you can start learning Android a
 * Android networking
 * Android debugging and testing
 * App publishing
+
+## Contributing
+This guide is open-source, and we welcome contributions from the community! If you have any suggestions, corrections, or improvements, please feel free to create a pull request or open an issue.
